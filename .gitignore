@@ -1,0 +1,7 @@
+.idea
+venv
+.eggs
+__pycache__
+build
+dist
+poorlib.egg-info

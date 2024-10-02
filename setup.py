@@ -10,7 +10,7 @@ def extract_dependencies() -> list[str]:
 
 setup(
     name='poorlib',
-    version='0.0.2',
+    version='0.0.5',
     description='Python library for poor-man',
     author='Farhan Purdi',
     packages=find_packages(exclude=['tests', 'tests.*']),
